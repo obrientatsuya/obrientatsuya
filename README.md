@@ -1,7 +1,7 @@
 ### Hi.
-Luiz = ( gosto de javascript e design gráfico. )
+Luiz = ( likes javascript and clean interfaces. )
 
-Aqui encontrarás node, js, ts, react.js, html/css, bootstrap e electron 
+Aqui encontrarás node, js/ts, react.js, html/css, bootstrap e electron. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
