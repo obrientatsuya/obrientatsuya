@@ -1,14 +1,13 @@
 ### Hi.
 Luiz = ( likes javascript and clean interfaces. )
 
-Aqui encontrarás node, js/ts, react.js, html/css, bootstrap e electron. 
 
 <div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/obrientatsuya">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>  
 
-</div>
 
 
 <div style="display: inline_block"><br>
