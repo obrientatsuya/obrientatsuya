@@ -1,7 +1,7 @@
 # Obrien Tatsuya
 • TypeScript dev. <br>
 • Api Rest & Scrum method. <br>
-• always graphQL, mongoDB, ReactJS <br>
+• graphQL, mongoDB, ReactJS <br>
 
 
 
