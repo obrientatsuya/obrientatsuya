@@ -2,7 +2,7 @@
 • TypeScript dev. <br>
 • Api Rest & Scrum method. <br>
 • always graphQL, mongoDB, react.js <br>
-[ ################### ] <br>
+$_[ ################### ] <br>
 u can contact me at: <br>
 • Discord: Obrien Δ#1900 <br>
 • Email: obrien.tatsuya@gmail.com <br>
