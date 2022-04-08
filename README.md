@@ -1,8 +1,8 @@
-### Hi.
+# obrien tatsuya
 
 
 <div align="center">
-  
+    -TypeScript dev, node.
     -真実を見せてくれてありがとう。 
     -Discord: Obrien Δ#1900
     -E-mail: obrien.tatsuya@gmail.com
