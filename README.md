@@ -1,15 +1,13 @@
-# obrientatsuya
-<div align="center">
-
-
+# Obrien Tatsuya
 • TypeScript dev. <br>
 • Api Rest & Scrum method. <br>
 • always graphQL, mongoDB, react.js <br>
 [ ################### ] <br>
-U can contact me at: <br>
+u can contact me at: <br>
 • Discord: Obrien Δ#1900 <br>
 • Email: obrien.tatsuya@gmail.com <br>
 
+<div align="center">
   <hr size="2"/>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&layout=compact&langs_count=7&theme=tokyonight"/>
