@@ -18,7 +18,7 @@ Back-End Engineer.
 <b>My GitHub Stats</b>
 
 <!-- Github Badges -->
-<a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-stats.vercel.app/api?username=MateusJSouza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="obrientatsuya's GitHub stats" /></a>
+<a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="obrientatsuya's GitHub stats" /></a>
 
 <!-- Github Stats -->
 <a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obrientatsuya&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
