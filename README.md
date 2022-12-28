@@ -8,13 +8,12 @@ I'am Javascript ecosystem explorer. <br>
 Revolutionary south american, because i like to solve problems and create a new things.
 My main focus are back-end development, in home office.
 As curiosity, Obrien is a pseudonym,
-that is all.
+that is all. Cya.
 
 Actually skills
 * TypeScript <br>
 * Node.JS, Api Rest, Scrum method. <br>
 * mongoDB, graphQL & Jest <br>
-
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +21,11 @@ Actually skills
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+Status
+==========================
+* 🚀 I'm currently unemployed.
+* ✉️ You can contact me at obrien.contracts@gmail.com
 
 ### Socials
 
