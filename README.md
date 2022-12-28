@@ -25,7 +25,7 @@ Actually skills
 Status
 ==========================
 * 🚀 I'm currently unemployed.
-* ✉️ You can contact me at obrien.social@gmail.com
+* ✉️ You can contact me at obrien.tatsuya@gmail.com
 
 ### Socials
 
