@@ -13,11 +13,21 @@ Back-End Engineer.
 <!-- Linkedin --><a href="https://www.linkedin.com/in/obrientatsuya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-<div align="center">
-  <hr size="2"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=obrientatsuya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<!-- Github Badges -->
+<a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-stats.vercel.app/api?username=MateusJSouza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="obrientatsuya's GitHub stats" /></a>
+
+<!-- Github Stats -->
+<a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obrientatsuya&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- Top Languages -->
+<a href="https://github.com/obrientatsuya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrientatsuya&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/obrientatsuya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=obrientatsuya&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
   <hr size="2"/>
 
