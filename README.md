@@ -1,11 +1,21 @@
-# Luiz Fernando
+I'm Luiz.
+==========================
+
 Back-End Engineer.
 -----------------------------
-• TypeScript <br>
-• Node.JS, Api Rest, Scrum method. <br>
-• mongoDB, graphQL & Jest <br>
-<div>
 
+I'am Javascript ecosystem explorer. <br>
+Revolutionary south american, because i like to solve problems and create a new things.
+My main focus are back-end development, in home office.
+As curiosity, Obrien is a pseudonym,
+that is all.
+
+Actually skills
+* TypeScript <br>
+* Node.JS, Api Rest, Scrum method. <br>
+* mongoDB, graphQL & Jest <br>
+
+<div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
