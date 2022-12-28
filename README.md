@@ -1,13 +1,17 @@
-# Obrien Tatsuya
-• TypeScript dev. <br>
+# Luiz Fernando
+Back-End Engineer.
+-----------------------------
+• TypeScript <br>
 • Node.JS, Api Rest, Scrum method. <br>
 • mongoDB, graphQL & Jest <br>
 
 
+### Socials
 
-u can contact me at: <br>
-⠀⠀⠀• _Discord: Obrien Δ#1900_ <br>
-⠀⠀⠀• _Email: obrien.tatsuya@gmail.com_ <br>
+<!-- Discord -->
+<p align="left"> <a href="https://discord.com/users/397518713047482368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<!-- Linkedin --><a href="https://www.linkedin.com/in/obrientatsuya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 
 <div align="center">
   <hr size="2"/>
