@@ -12,7 +12,7 @@ that is all. Cya.
 
 Actually skills
 * 📘 TypeScript <br>
-* 🍏 Node.js, Api Rest, Scrum method <br>
+* 🍏 Node.js, Api Restful, Scrum method <br>
 * ☕ MySql, mongoDB, graphQL & Jest <br>
 * 🍙 Knex.js, Vue.js, Docker <br>
 * 🍨 S.O.L.I.D, TDD & Swagger.  <br>
