@@ -7,8 +7,8 @@ Back-End Engineer.
 I'am Javascript ecosystem explorer. <br>
 Revolutionary south american, because i like to solve problems and create a new things.
 My main focus are back-end development, in home office.
-As curiosity, Obrien is a pseudonym,
-that is all. Cya.
+As curiosity, Obrien is a pseudonym, 
+cya.
 
 Actually skills
 * 📘 TypeScript <br>
