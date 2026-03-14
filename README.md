@@ -1,8 +1,9 @@
 Luiz.
 ==========================
-I like to build things, rockets, robots, and AI enthusiast or something like thats. 
 
-At first, Bitcoin maximalist.
+I like to build things: rockets, robots, and AI-related stuff.
+
+At first, a Bitcoin maximalist.
 
 ### Badges
 
