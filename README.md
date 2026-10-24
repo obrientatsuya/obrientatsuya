@@ -5,6 +5,8 @@ I like to build things: rockets, robots, and AI-related stuff.
 
 At first, a Bitcoin maximalist.
 
+contact > obrien.tatsuya@gmail.com
+
 ### Badges
 
 <b>My GitHub Stats</b>
